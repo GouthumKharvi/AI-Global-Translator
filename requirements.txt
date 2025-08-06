@@ -1,0 +1,13 @@
+streamlit
+deep-translator
+speechrecognition
+gtts
+pydub
+PyMuPDF
+python-docx
+Pillow
+pytesseract
+pandas
+numpy
+requests
+langdetect
