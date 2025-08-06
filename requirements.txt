@@ -1,5 +1,5 @@
 streamlit
-googletrans==4.0.0rc1
+googletrans==3.1.0a0
 deep-translator
 speechrecognition
 gtts
@@ -12,4 +12,5 @@ pandas
 numpy
 requests
 langdetect
+
 
