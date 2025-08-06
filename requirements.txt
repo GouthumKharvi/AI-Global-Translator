@@ -11,5 +11,5 @@ pytesseract
 pandas
 numpy
 requests
-
 langdetect
+
